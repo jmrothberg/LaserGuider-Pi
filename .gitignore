@@ -1,0 +1,24 @@
+# GitHub .gitignore for Python, Raspberry Pi, OpenCV, and common editor artifacts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raspberry Pi specific 
+*.img
+
+# OpenCV
+*.avi
+*.mp4
+*.h264
+*.mjpg
+
+# Editor artifacts
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints/
