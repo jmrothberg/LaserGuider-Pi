@@ -1,0 +1,6 @@
+opencv-python
+numpy
+gpiozero
+pigpio
+picamera2
+RPi.GPIO
